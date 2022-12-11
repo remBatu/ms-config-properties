@@ -7,3 +7,4 @@
 out
 gen
 !/ms-config-properties.iml
+!/.gitignore
